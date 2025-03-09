@@ -66,6 +66,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onDestroy() {
         super.onDestroy()
-        Toast.makeText(this, "onDestroy", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "xdd", Toast.LENGTH_SHORT).show()
     }
 }
